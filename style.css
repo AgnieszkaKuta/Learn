@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+div>button {
+    
+    padding: 2em;
+    color: green;
+}
+
+div>button:hover {
+    color: aqua;
+    background-color: beige;
+}
+
+#test {
+    color: fuchsia;
+}
